@@ -1,4 +1,4 @@
-# 天才的自动解密解压机器
+# ai写的天才的自动解密解压机器
 
 [English version below](#english)
 
