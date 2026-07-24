@@ -1,0 +1,6 @@
+py7zr
+pyzipper
+sv-ttk
+Pillow
+# RAR / RAR5 解压由项目内 tools/7za.exe（7-Zip 独立版）提供，无需 rarfile / unrar。
+# 首次运行请确保 tools/ 目录含 7za.exe + 7za.dll + 7zxa.dll。

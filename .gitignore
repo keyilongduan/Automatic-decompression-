@@ -1,0 +1,27 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# ---- 测试与诊断脚本（不随仓库发布）----
+test_*.py
+diag_try.py
+patch_archivelib.py
+
+# ---- 用户数据与临时文件 ----
+passwords.txt
+config.json
+*.log
+_t_progress/
+
+# ---- 构建产物 ----
+build/
+dist/
+*.spec
+
+# ---- 系统 ----
+Thumbs.db
+.DS_Store
